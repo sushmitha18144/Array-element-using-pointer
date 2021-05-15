@@ -1,0 +1,1 @@
+# Array-element-using-pointer
